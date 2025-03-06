@@ -14,7 +14,7 @@ document.addEventListener("DomContentLoaded", ( ) => {
         },
         {
             question: "Vilket år skapades JavaScript?",
-            answers: ["1995", "2000", "1990", "1985"];
+            answers: ["1995", "2000", "1990", "1985"],
             correct: 0
         }
     ];
